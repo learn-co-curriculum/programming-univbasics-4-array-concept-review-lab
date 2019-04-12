@@ -2,29 +2,33 @@
 
 ## Learning Goals
 
-- Perform operations on arrays as guided by tests
-- Reflect on approach
+- Perform operations on arrays
 
 ## Introduction
 
-In this lab, we are going to practice array operations.
+Let's practice array operations. Consider the use of methods that were built-in
+to the `Enumerable` and `Array` classes. Knowing built-in Ruby libraries save
+time and prevents bugs. By using these, you will prevent errors and ensure that
+your code is as clear as possible.
 
-### Perform operations on Arrays as guided by tests
+## Perform operations on Arrays as guided by tests
 
-- Find the highest number in a given array
-- Find Nemo in a nested array
-- Flatten a nested array
-- Flatten a nested array, then return the array alphabetically sorted
+### `#using_max`
 
-### Reflect on Approach
+Define a method that finds the highest number in a given array.
 
-Did you use the methods that were built-in to the Enumerable and Array classes?
-Why not? Knowing your built ins saves you time, prevents bugs, and is what other
-developers will expect to see you use when writing clear and concise code in the
-future. By using these, you will prevent errors and ensure that your code is as
-clear as possible. That way, when you go back to it in the future, you're not
-creating technical debt for yourself or other developers, and you're ensuring
-that your code is easy to maintain and improve.
+### `#find_nth_element`
+
+Define a method that finds Nemo in a nested array.
+
+### `#flatten_nested_arrays`
+
+Define a method that flattens a nested array.
+
+### `#flatten_then_sort`
+
+Define a method that flattens the nested array, and then returns the previous
+array sorted alphabetically.
 
 ## Conclusion
 
