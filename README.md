@@ -6,12 +6,11 @@
 
 ## Introduction
 
-Let's practice array operations. Consider the use of methods that were built-in
-to the `Enumerable` and `Array` classes. Knowing built-in Ruby libraries save
-time and prevents bugs. By using these, you will prevent errors and ensure that
-your code is as clear as possible.
+Let's practice array operations. As you practice, consider the use of methods
+that were built into the `Enumerable` and `Array` classes. Knowing built-in Ruby
+libraries saves time and prevents bugs.
 
-## Perform operations on Arrays as guided by tests
+## Perform Operations on Arrays
 
 ### `#using_max`
 
@@ -32,9 +31,9 @@ array sorted alphabetically.
 
 ## Conclusion
 
-There are many varied and fun ways that you can manipulate arrays to make data
-work for you. As long as you focus on working with the built in methods first,
-the sky's the limit!
+There are several methods built into Ruby libraries that help you work with data
+in arrays. By using these, you will avoid errors and make your code as clear as
+possible.
 
 ## Resources
 
